@@ -22,7 +22,7 @@ class ALCog:
                              "Commanders, PvP/Gold Shop have reset!")
 
 
-        self.target_channel = 437918939352137728
+        self.target_channel = 467661497833619467
 
 
     def get_time_remaining_for_task(self, server, task):
