@@ -1,0 +1,6 @@
+.idea/
+venv/
+.vscode/
+logs/
+osu_cache/
+config.py
