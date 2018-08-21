@@ -15,10 +15,10 @@ class ALCog:
         self.calculate_reset(15,24, "JP Server", "Commanders, Daily Quests/PvP/Medal Shop/Gold Shop have reset!")
         self.calculate_reset(7,24, "EN Server", "Commanders, Daily Quests/PvP/Medal Shop/Gold Shop have reset!")
 
-        self.calculate_reset(3, 12, "JP Server",
+        self.calculate_reset(3, 24, "JP Server",
                              "Commanders, PvP/Gold Shop have reset!")
 
-        self.calculate_reset(19, 12, "EN Server",
+        self.calculate_reset(19, 24, "EN Server",
                              "Commanders, PvP/Gold Shop have reset!")
 
 
